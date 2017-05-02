@@ -1,0 +1,56 @@
+{
+    "dataunsur": {
+        "data": [
+            {
+                "nomor_atom": "1",
+                "nama_atom": "Hydrogen",
+                "lambang_atom": "H",
+                "berat_atom": "1.00794",
+                "jari_jari_atom": "53 pm",
+                "titik_didih": "-252.87 C",
+                "titik_lebur": "-259.14 C",
+                "konfigurasi": "1s1"
+            },
+            {
+                "nomor_atom": "2",
+                "nama_atom": "Helium",
+                "lambang_atom": "He",
+                "berat_atom": "4.00262",
+                "jari_jari_atom": "31 pm",
+                "titik_didih": "-289.93 C",
+                "titik_lebur": "N\/A",
+                "konfigurasi": "1s2"
+            },
+            {
+                "nomor_atom": "3",
+                "nama_atom": "Lithium",
+                "lambang_atom": "Li",
+                "berat_atom": "6.941",
+                "jari_jari_atom": "167 pm",
+                "titik_didih": "1342 C",
+                "titik_lebur": "180.54 C",
+                "konfigurasi": "[He]2s1"
+            },
+            {
+                "nomor_atom": "4",
+                "nama_atom": "Beryllium",
+                "lambang_atom": "Be",
+                "berat_atom": "9.012182",
+                "jari_jari_atom": "112 pm",
+                "titik_didih": "2470 C",
+                "titik_lebur": "1287 C",
+                "konfigurasi": "[He]2s2"
+            },
+            {
+                "nomor_atom": "5",
+                "nama_atom": "Boron",
+                "lambang_atom": "B",
+                "berat_atom": "10.811",
+                "jari_jari_atom": "87 pm",
+                "titik_didih": "4000 C",
+                "titik_lebur": "2075 C",
+                "konfigurasi": "[He]2s2 2p1"
+            }
+        ]
+    }
+}
